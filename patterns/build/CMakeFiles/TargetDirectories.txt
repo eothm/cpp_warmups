@@ -1,0 +1,3 @@
+/home/eothmane/cpp-warmups/patterns/build/CMakeFiles/Patterns.dir
+/home/eothmane/cpp-warmups/patterns/build/CMakeFiles/edit_cache.dir
+/home/eothmane/cpp-warmups/patterns/build/CMakeFiles/rebuild_cache.dir
