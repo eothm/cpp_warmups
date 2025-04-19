@@ -9,6 +9,7 @@ set(CMAKE_CXX_STANDARD_REQUIRED True)
 file(GLOB_RECURSE SOURCES
     "main.cpp"
     "Complex.cpp"
+    "ArrayLike.cpp"
 )
 
 # Define the executable

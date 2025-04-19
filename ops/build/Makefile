@@ -129,6 +129,30 @@ MyExecutable/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/MyExecutable.dir/build.make CMakeFiles/MyExecutable.dir/build
 .PHONY : MyExecutable/fast
 
+ArrayLike.o: ArrayLike.cpp.o
+.PHONY : ArrayLike.o
+
+# target to build an object file
+ArrayLike.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/MyExecutable.dir/build.make CMakeFiles/MyExecutable.dir/ArrayLike.cpp.o
+.PHONY : ArrayLike.cpp.o
+
+ArrayLike.i: ArrayLike.cpp.i
+.PHONY : ArrayLike.i
+
+# target to preprocess a source file
+ArrayLike.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/MyExecutable.dir/build.make CMakeFiles/MyExecutable.dir/ArrayLike.cpp.i
+.PHONY : ArrayLike.cpp.i
+
+ArrayLike.s: ArrayLike.cpp.s
+.PHONY : ArrayLike.s
+
+# target to generate assembly for a file
+ArrayLike.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/MyExecutable.dir/build.make CMakeFiles/MyExecutable.dir/ArrayLike.cpp.s
+.PHONY : ArrayLike.cpp.s
+
 Complex.o: Complex.cpp.o
 .PHONY : Complex.o
 
@@ -186,6 +210,9 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... MyExecutable"
+	@echo "... ArrayLike.o"
+	@echo "... ArrayLike.i"
+	@echo "... ArrayLike.s"
 	@echo "... Complex.o"
 	@echo "... Complex.i"
 	@echo "... Complex.s"

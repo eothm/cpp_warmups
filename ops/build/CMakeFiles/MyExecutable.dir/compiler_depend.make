@@ -215,6 +215,7 @@ CMakeFiles/MyExecutable.dir/Complex.cpp.o: /home/eothmane/cpp-warmups/ops/Comple
   /usr/lib/gcc/x86_64-linux-gnu/13/include/stddef.h
 
 CMakeFiles/MyExecutable.dir/main.cpp.o: /home/eothmane/cpp-warmups/ops/main.cpp \
+  /home/eothmane/cpp-warmups/ops/ArrayLike.h \
   /home/eothmane/cpp-warmups/ops/Complex.h \
   /usr/include/alloca.h \
   /usr/include/asm-generic/errno-base.h \
@@ -410,6 +411,8 @@ CMakeFiles/MyExecutable.dir/main.cpp.o: /home/eothmane/cpp-warmups/ops/main.cpp 
 /usr/include/x86_64-linux-gnu/sys/select.h:
 
 /usr/include/x86_64-linux-gnu/sys/cdefs.h:
+
+/home/eothmane/cpp-warmups/ops/ArrayLike.h:
 
 /usr/include/x86_64-linux-gnu/gnu/stubs-64.h:
 

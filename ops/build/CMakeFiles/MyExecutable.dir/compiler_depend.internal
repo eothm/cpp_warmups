@@ -217,6 +217,7 @@ CMakeFiles/MyExecutable.dir/Complex.cpp.o
 
 CMakeFiles/MyExecutable.dir/main.cpp.o
  /home/eothmane/cpp-warmups/ops/main.cpp
+ /home/eothmane/cpp-warmups/ops/ArrayLike.h
  /home/eothmane/cpp-warmups/ops/Complex.h
  /usr/include/alloca.h
  /usr/include/asm-generic/errno-base.h
