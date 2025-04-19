@@ -1,0 +1,3 @@
+/home/eothmane/cpp-warmups/ops/build/CMakeFiles/MyExecutable.dir
+/home/eothmane/cpp-warmups/ops/build/CMakeFiles/edit_cache.dir
+/home/eothmane/cpp-warmups/ops/build/CMakeFiles/rebuild_cache.dir
