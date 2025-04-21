@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/Tasks.dir/Task.cpp.o CMakeFiles/Tasks.dir/TaskManager.cpp.o CMakeFiles/Tasks.dir/User.cpp.o CMakeFiles/Tasks.dir/main.cpp.o -o Tasks 

@@ -1,0 +1,3 @@
+/home/eothmane/cpp-warmups/TaskManagerProject/build/CMakeFiles/Tasks.dir
+/home/eothmane/cpp-warmups/TaskManagerProject/build/CMakeFiles/edit_cache.dir
+/home/eothmane/cpp-warmups/TaskManagerProject/build/CMakeFiles/rebuild_cache.dir
